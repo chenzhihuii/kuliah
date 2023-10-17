@@ -1,2 +1,4 @@
-latian 1
+latian 1D
 latian edit fitur1
+latihan di fitur2
+fixed merge conflict
